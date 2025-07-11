@@ -1,16 +1,66 @@
 {
-  "users": [
+  "employees": [
     {
-      "id": "70f1",
-      "name": "Mayank Mani",
+      "name": "Harsh Hooda",
+      "profileImage": "file:///D:/WebApps-js-BL/Payroll/pp1.jpg",
+      "gender": "Male",
+      "departments": [
+        "HR",
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "1-1-2000",
+      "notes": "kimn",
+      "id": "e6cd"
+    },
+    {
+      "id": "c5ef",
+      "name": "Harsh Hooda",
+      "profileImage": "file:///D:/WebApps-js-BL/Payroll/pp1.jpg",
       "gender": "Male",
       "departments": [
         "HR"
       ],
       "salary": "20000",
-      "startDate": "3/3/2003",
-      "profile": "https://img.icons8.com/color/48/000000/user.png",
-      "notes": ";d."
+      "startDate": "17-4-2014",
+      "notes": ""
+    },
+    {
+      "id": "a9d1",
+      "name": "Shubham ",
+      "profileImage": "file:///D:/WebApps-js-BL/Payroll/pp2.jpg",
+      "gender": "Male",
+      "departments": [
+        "HR"
+      ],
+      "salary": "20000",
+      "startDate": "13-7-2008",
+      "notes": ""
+    },
+    {
+      "id": "6d69",
+      "name": "Harsh Hooda",
+      "profileImage": "file:///D:/WebApps-js-BL/Payroll/pp1.jpg",
+      "gender": "Male",
+      "departments": [
+        "HR",
+        "Engineer"
+      ],
+      "salary": "10000",
+      "startDate": "2-2-2002",
+      "notes": "kd c"
+    },
+    {
+      "id": "60ee",
+      "name": "betea",
+      "profileImage": "file:///D:/WebApps-js-BL/Payroll/pp1.jpg",
+      "gender": "Male",
+      "departments": [
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "10-11-2008",
+      "notes": "oin"
     }
   ]
 }
