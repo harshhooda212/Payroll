@@ -61,6 +61,19 @@
       "salary": "30000",
       "startDate": "10-11-2008",
       "notes": "oin"
+    },
+    {
+      "id": "d613",
+      "name": "Sodium",
+      "profileImage": "file:///D:/WebApps-js-BL/Payroll/pp1.jpg",
+      "gender": "Male",
+      "departments": [
+        "HR",
+        "Sales"
+      ],
+      "salary": "20000",
+      "startDate": "3-4-2002",
+      "notes": "kldiog"
     }
   ]
 }
