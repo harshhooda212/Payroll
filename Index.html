@@ -113,6 +113,22 @@
     }
   }
 </script>
+<script>
+  $(document).ready(function () {
+    $('#searchInput').on('keyup', function () {
+      const searchTerm = $(this).val().toLowerCase();
+
+      $('tbody tr').each(function () {
+        const rowText = $(this).text().toLowerCase();
+        if (rowText.includes(searchTerm)) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      });
+    });
+  });
+</script>
 
 
 

@@ -176,6 +176,7 @@ main {
 }
 
 .search-btn {
+  display: flex;
   background-color: white;
   border: none;
   font-size: 18px;
